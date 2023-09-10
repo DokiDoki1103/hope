@@ -1,0 +1,1 @@
+import{_ as o,W as t,X as c,Y as e,Z as a}from"./framework-3c1374b9.js";const n={},l=e("h1",{id:"collection-详解",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#collection-详解","aria-hidden":"true"},"#"),a(" Collection 详解")],-1),r=[l];function s(i,_){return t(),c("div",null,r)}const h=o(n,[["render",s],["__file","java-collection.html.vue"]]);export{h as default};
