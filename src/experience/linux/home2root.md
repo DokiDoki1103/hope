@@ -10,5 +10,4 @@ xfs_growfs /dev/centos/root
 编辑/etc/fstab，取消开机挂载/home分区，否则开启会挂载/home失败可能无法进入系统
 ```bash
 vi /etc/fstab
-
 ```

@@ -39,6 +39,16 @@ export const zhNavbar = navbar([
         children: [
           { text: "Https 协议", icon: "more", link: "/certificate" }
         ],
+      },
+      {
+        text: "Linux 相关",
+        prefix: "/linux",
+        children: [
+          { text: "home分区合并到root下", icon: "more", link: "/home2root" },
+          { text: "物理机动态IP转为静态IP", icon: "more", link: "/dhcp2static" },
+          { text: "5分钟安装elasticsearch", icon: "more", link: "/esinstall" },
+          { text: "被植入木马Syst3md挖矿", icon: "more", link: "/syst3md" }
+        ],
       }
     ]
   },
