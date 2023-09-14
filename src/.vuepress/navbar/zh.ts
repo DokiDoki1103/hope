@@ -46,7 +46,7 @@ export const zhNavbar = navbar([
         children: [
           { text: "home分区合并到root下", icon: "more", link: "/home2root" },
           { text: "物理机动态IP转为静态IP", icon: "more", link: "/dhcp2static" },
-          { text: "5分钟安装elasticsearch", icon: "more", link: "/esinstall" },
+          { text: "elasticsearch入门", icon: "more", link: "/elasticsearch" },
           { text: "被植入木马Syst3md挖矿", icon: "more", link: "/syst3md" }
         ],
       }
